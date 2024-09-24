@@ -1,10 +1,10 @@
 // Purpose: The program is for encryption and decryption, it includes 3 types of Cipher
-// Author1: ola Ghoneim Hammad Ahmed Salama __ ID: 20231232 – Atbash Cipher
-// Email: olaghoneim38@gmail.com __ Section 25 
-// Author2: Mariem Refaey Abd El-Manaf Ahmed __ ID: 20231163 – Vignere Cipher
-// Email: refaeymariem@gmail.com __ Section 26
-// Author3: Menna Mohamed Ashour __ ID: 20231180
-// Email: mm1881569@gmail.com __ Section 26
+// Author1: ola Ghoneim Hammad Ahmed Salama – Atbash Cipher
+// Email: olaghoneim38@gmail.com 
+// Author2: Mariem Refaey Abd El-Manaf Ahmed 3 – Vignere Cipher
+// Email: refaeymariem@gmail.com 
+// Author3: Menna Mohamed Ashour 
+// Email: mm1881569@gmail.com 
 
 #include <iostream>
 #include <vector>
